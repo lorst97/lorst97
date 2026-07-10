@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:238636&text=LORENZO&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Lead%20Developer%20%E2%80%A2%20Backend%20Engineer&descAlignY=59&descSize=18&animation=fadeIn" alt="Lorenzo — Lead Developer and Backend Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=LORENZO&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Lead%20Developer%20%E2%80%A2%20Backend%20Engineer&descAlignY=59&descSize=18&animation=fadeIn" alt="Lorenzo — Lead Developer and Backend Engineer" />
 
 <br>
 
