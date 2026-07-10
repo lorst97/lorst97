@@ -8,12 +8,6 @@ Building reliable backend systems, asynchronous workflows and production-ready w
 
 <br>
 
-
-
-
-
-\
-
 </div>
 
 ---
@@ -112,40 +106,6 @@ CREATIVE       Processing
 </tr>
 </table>
 
----
-
-## Technologies
-
-<div align="center">
-
-### Backend
-
-
-
-
-\
-
-### Frontend
-
-
-
-\
-
-### Data and infrastructure
-
-
-
-
-\
-
-### Additional languages
-
-
-\
-
-</div>
-
----
 
 ## Selected projects
 
