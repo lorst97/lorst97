@@ -6,7 +6,7 @@
 
 <br>
 
-**Backend systems · Web platforms · Asynchronous architectures**
+**Backend systems · Web platforms · Modular Architectures**
 
 <br>
 
