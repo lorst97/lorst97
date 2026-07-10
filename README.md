@@ -20,7 +20,7 @@
 
 <!-- PROFILE -->
 
-## `01.` Profile
+## Profile
 
 Backend engineer specialized in **Python and Django**, focused on designing reliable, maintainable and production-ready web platforms.
 
@@ -32,7 +32,7 @@ My primary stack is **Django + Vue**, supported by **Redis, Celery, SQL and Dock
 
 <!-- STACK -->
 
-## `02.` Core stack
+## Core stack
 
 <div align="center">
 
@@ -91,7 +91,7 @@ My primary stack is **Django + Vue**, supported by **Redis, Celery, SQL and Dock
 
 <!-- EXPERTISE -->
 
-## `03.` Engineering expertise
+## Engineering expertise
 
 <table>
 <tr>
@@ -156,7 +156,7 @@ My primary stack is **Django + Vue**, supported by **Redis, Celery, SQL and Dock
 
 <!-- PROJECTS -->
 
-## `04.` Selected projects
+## Selected projects
 
 <table>
 <tr>
@@ -234,7 +234,7 @@ Task orchestration, retries, scheduling and worker management.
 
 <!-- CURRENT FOCUS -->
 
-## `05.` Current focus
+## Current focus
 
 ```text
 01  Advanced Django architectures
@@ -249,7 +249,7 @@ Task orchestration, retries, scheduling and worker management.
 
 <!-- PRINCIPLES -->
 
-## `06.` Engineering principles
+## Engineering principles
 
 <div align="center">
 
@@ -272,7 +272,7 @@ Task orchestration, retries, scheduling and worker management.
 
 <!-- ADDITIONAL LANGUAGES -->
 
-## `07.` Additional technologies
+## Additional technologies
 
 <div align="center">
 
