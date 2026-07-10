@@ -289,6 +289,6 @@ Task orchestration, retries, scheduling and worker management.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient:0D1117,50:161B22,100:238636" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" alt="" />
 
 </div>
